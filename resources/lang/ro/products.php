@@ -1,0 +1,68 @@
+<?php
+
+return [
+    /*
+    |--------------------------------------------------------------------------
+    | Products Language Lines
+    |--------------------------------------------------------------------------
+    |
+    */
+
+    'search' => 'Cauta',
+    'search_results' => 'Rezultatele cautarii',
+    'catalog' => 'Catalog',
+    'products' => 'Produse',
+    'product' => 'Produs',
+    'categories' => 'Categorii',
+    'details' => 'Detalii',
+    'contact' => 'Contactează',
+    'contacts' => 'Contacte',
+    'online_application' => 'Cerere online',
+    'share_with' => 'Pentru a împărtăși cu prietenii',
+    'reed_more' => 'Citeste mai mult',
+    'more_news' => 'Mai multe stiri',
+    'product_search' => 'Cautare produs:',
+    'sort' => 'Sortare:',
+    'filter_by_price' => 'Filtrați după preț:',
+    'filter_by_brand' => 'Filtrați după marcă:',
+    'choose' => 'Alege',
+    'by_popularity' => 'După Popularitate',
+    'price' => 'Preț',
+    'price_asc' => 'Preț (crescător)',
+    'price_desc' => 'Preț (descrescător)',
+    'from' => 'De la',
+    'to' => 'Până la',
+    'description' => 'Descriere',
+    'manufacturer' => 'Producator:',
+    'code' => 'Cod Produs:',
+    'more' => 'Mai Mult',
+    'similar_products' => 'Produse similare',
+    'learn_more' => 'Afla mai mult',
+    'basket' => 'Coş',
+    'add_to_cart' => 'Adaugă în coș',
+    'add_to_compare' => 'Adaugă la comparare',
+    'add_to_favorites' => 'Adauga la favorite',
+    'all_categories' => 'Toate categoriile',
+    'enter_product_name' => 'Introduceți numele produsului',
+    'qty' => 'Cantitate',
+    'total' => 'Total',
+    'payment' => 'Plată',
+    'display' => 'Afișare:',
+    'share' => 'Distribuie:',
+    'comparison' => 'Comparaţie',
+    'delete' => 'Șterge',
+    'calculate_cost' => 'Calculați costul specificând lungimea și lățimea sau doar suprafața:',
+    'or' => 'sau',
+    'length' => 'Lungime',
+    'width' => 'Lăţime',
+    'area' => 'Suprafaţă',
+    'order_service' => 'Comandă serviciu',
+    'my_wishlist' => 'Lista de dorinte',
+    'added_to_wishlist' => 'Produs adăugat la lista de dorințe',
+    'removed_from_wishlist' => 'Produs eliminat din lista de dorințe',
+    'added_to_compare' => 'Produs adăugat la lista de comparare',
+    'removed_from_compare' => 'Produs eliminat din lista de comparare',
+    'added_to_cart' => 'Produs adăugat în coș',
+    'removed_from_cart' => 'Produs eliminat din coș',
+
+];
